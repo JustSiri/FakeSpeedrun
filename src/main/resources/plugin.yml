@@ -1,0 +1,7 @@
+name: FakeSpeedRun
+version: ${project.version}
+main: justsiri.fks.fakespeedrun.FakeSpeedRun
+api-version: 1.16
+
+commands:
+  fkspedr:
